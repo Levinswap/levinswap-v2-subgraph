@@ -102,7 +102,7 @@ let WHITELIST: string[] = [
   '0x5b690b010944bdfa8b26116967fe3fb3c38cfaac', // RealT 13370 (weth)
   '0x78a9013b53d2d255935bbc43112d0dd3f475f3d3', // RealT 15203 (weth)
   '0x0954682ff1b512d3927d06c591942f50917e16a0', // RealT 10021 (weth)
-  '0xcb061ae1f9b618c44ac10a47a672bf438da01fd8', // RealT 893-895 (weth)a
+  '0xcb061ae1f9b618c44ac10a47a672bf438da01fd8', // RealT 893-895 (weth)
   '0x38de2858be53d603b1104f16aa67cf180002465d', // RealT 738-742 (weth)
   '0xf5aeab9d9c707b56311066e5172239686ab88110', // RealT 2318-2324 (weth)
   '0x9b091105b9a9eb118f4e0da06a090d6d95463357', // RealT 11217 (weth)
@@ -119,7 +119,19 @@ let WHITELIST: string[] = [
   '0xe7b6de709ffc3bd237c2f2c800e1002f97a760f3', // RealT 4852-4854 (usdc)
   '0xef2b6234e376c3b152c5febe47e1ca3c73cdaa9f', // RealT 15208 (weth)
   '0xa5c16ae5fd75f4f079f3e33f0124899bacf567f9', // RealT 882-884 (weth)
-
+  '0xa8ab830bfd0d91bc017cdec98a2a198b9938ea8d', // RealT 12747-12749 (weth)
+  '0x94c1bfa7826c4ef28969a0eb49e82a614a723f8c', // RealT 2550 (weth)
+  '0x24a2558d0b0b2247a64eab7cf09d7244cb4c9597', // RealT 17616 (weth)
+  '0x690602eb0bf5607e3586f1d3e4c4601ef6e4a89f', // RealT 8531 (weth)
+  '0x185e39d860cf86fbecf4a7c341bd1545ea3a41b9', // RealT 20552 (weth)
+  '0xcd7dc5e034b631331bc0cfc4ea71d2dc7b53c338', // RealT 2950-2952 (weth)
+  '0x2360fca74ed948ff4f962e369080a64a40a1300d', // RealT 8366 (weth)
+  '0xc7785a2575606d444cefbc8a22591600ae5aa9b4', // RealT 13041 (weth)
+  '0x5162d60b699a44b9f09b5fbfd8e6343cde9d7b22', // RealT 128 (weth)
+  '0x2b683f8cc61de593f089bdddc01431c0d7ca2ee2', // RealT 601 (weth)
+  '0xde9122799c313d5cc5c4385984156ad068cde331', // RealT 1612 (weth)
+  '0x83b16b1dcaaeb59caa13b96da260d8b15671822a', // RealT 1204 (weth)
+  '0x4505f5bff6bada5a20b1a008c6db3cd9545027a4', // RealT 338 (weth)
 
   '0xb7d311e2eb55f2f68a9440da38e7989210b9a05e' // STAKE on xDai
 ]
